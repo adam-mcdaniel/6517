@@ -41,7 +41,8 @@ return
 ## Debugging 
 
 - Make sure the team number is 6517 in the Driverstation
-- If the controls do not work, switch through the tabs on the Driverstation until you find a list of joysticks. Swap the joysticks in the list, enable teleop again, and try to use te controls.
+- If the controls do not work, switch through the tabs on the Driverstation until you find a list of joysticks.
+  Swap the joysticks in the list, enable teleop again, and try to use the controls.
 - Make sure the robot is connected to the driverstation.
 - It takes a while for the hotspot to show up, if that is the issue, wait a minute or two.
 - If the hotspot still will not appear, change robot radios. (Message me on slack if this happens.)
