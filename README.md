@@ -27,7 +27,7 @@ python "/path/to/robot.py" deploy --skip-tests
 
 ## Driverstation
 
-1. Search for Driverstation.
+1. Open Driverstation.
 ```
 win
 "driverstation"
