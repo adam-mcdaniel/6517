@@ -12,8 +12,14 @@
 6. If there is an issue, go to the debugging process.
 
 ## Deployment
+Start command prompt with admin privileges
+```
+win + r
+"cmd"
+return
+```
 
-Run in command prompt (win + r, "cmd", enter)
+Run in command prompt 
 
 ```
 python "/path/to/robot.py" deploy --skip-tests
@@ -21,7 +27,12 @@ python "/path/to/robot.py" deploy --skip-tests
 
 ## Driverstation
 
-1. Search for Driverstation. (win, "driverstation", enter)
+1. Search for Driverstation.
+```
+win
+"driverstation"
+return
+```
 2. OPTIONAL: Find "CAMERA BUILD" folder on Desktop and run the Dashboard EXE in it.
 3. Connect to the robot's hotspot.
 4. Enable teleop.
