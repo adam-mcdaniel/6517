@@ -12,14 +12,14 @@
 6. If there is an issue, go to the debugging process.
 
 ## Deployment
-Start command prompt with admin privileges
+Start command prompt with admin privileges:
 ```
 win + r
 "cmd"
 return
 ```
 
-Run in command prompt 
+Run in command prompt:
 
 ```
 python "/path/to/robot.py" deploy --skip-tests
@@ -27,7 +27,7 @@ python "/path/to/robot.py" deploy --skip-tests
 
 ## Driverstation
 
-1. Open Driverstation.
+1. Open Driverstation:
 ```
 win
 "driverstation"
