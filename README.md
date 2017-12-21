@@ -22,7 +22,7 @@ return
 Run in command prompt:
 
 ```
-python "/path/to/robot.py" deploy --skip-tests
+python "/path/to/robot/code/on/Desktop/projectName/robot.py" deploy --skip-tests
 ```
 
 ## Driverstation
