@@ -36,6 +36,7 @@ return
 2. OPTIONAL: Find "CAMERA BUILD" folder on Desktop and run the Dashboard EXE in it.
 3. Connect to the robot's hotspot.
 4. Enable teleop.
+5. The robot will take about 5 seconds to respond after starting teleop, so give it some time.
 
 ## Debugging 
 
